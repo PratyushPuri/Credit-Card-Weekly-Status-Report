@@ -7,6 +7,9 @@ I am highly enthusiastic to present the Credit Card Weekly Status Report, an adv
 The primary objective was to develop a comprehensive monitoring solution for credit card performance. The existing data was divided into distinct customer profiles and transactional logs, making it difficult to analyze spending patterns across different demographic segments. The project required the creation of an interactive reporting tool that could seamlessly filter metrics by gender, age, income, and specific timeframes, while accurately calculating complex week-over-week financial growth indicators.
 
 ## Analysis Done
+
+> The file in which the analysis done is `Credit Card.pbix`
+
 A rigorous data modeling and engineering approach was implemented to ensure accurate and dynamic visualizations. The core analytical phases included:
 
 * **Data Modeling:** Established a robust relational model by integrating the customer demographic dataset with the credit card transaction dataset utilizing the primary key.
